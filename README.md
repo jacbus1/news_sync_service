@@ -1,4 +1,4 @@
-# NewsClean Research Edition
+# news_sync_service Clean Edition
 
 Public-safe research subset of `news_sync_service`.
 
