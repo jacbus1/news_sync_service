@@ -1,0 +1,9 @@
+requests
+feedparser
+pandas
+lxml
+yfinance
+pywavelets
+hmmlearn
+pykalman
+FinanceDatabase
